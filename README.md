@@ -30,7 +30,7 @@
 - 目前功能只有这一个，但是不排除后期会添加其他的功能，如果您正好需要这么一个软件，可以尝试一下
 
 ## ⚓️ 相关链接 ⚓️ 
-- [下载地址](https://www.123pan.com/s/VP4vjv-doQ0v.html)
+- [最新版下载地址](https://pan.xunlei.com/s/VNyQTHEZy-OQk4i-5PJOjYD9A1?pwd=8j63)
 
 ## 🎈 捐赠 🎈
 - [支持我](https://gitee.com/xiaoqiangclub/xiaoqiangapps/raw/master/images/xiaoqiangclub_ad.png)
